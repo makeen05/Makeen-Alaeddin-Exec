@@ -271,7 +271,7 @@ function App() {
                 />
               </div>
               <h3 className="text-lg sm:text-xl font-bold text-white mb-2">Ice Skating</h3>
-              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2024</p>
+              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2025</p>
               <p className="text-sm sm:text-base text-gray-300 mb-3 sm:mb-4">
                 Off campus event with ICESoc!
               </p>
@@ -286,7 +286,7 @@ function App() {
                 />
               </div>
               <h3 className="text-lg sm:text-xl font-bold text-white mb-2">CSESOC x ENGSOC Sports Day</h3>
-              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2024</p>
+              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2025</p>
               <p className="text-sm sm:text-base text-gray-300 mb-3 sm:mb-4">
                 This was one of my first events as Socials Director, will never forget this one lol
               </p>
@@ -319,7 +319,7 @@ function App() {
                 />
               </div>
               <h3 className="text-lg sm:text-xl font-bold text-white mb-2">Trivia Night</h3>
-              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2024</p>
+              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2025</p>
               <p className="text-sm sm:text-base text-gray-300 mb-3 sm:mb-4">
                 This was actually our peer mentor outduction in term 1. So happy to see how close the groups have gotten 🥹.
               </p>
@@ -352,7 +352,7 @@ function App() {
                 />
               </div>
               <h3 className="text-lg sm:text-xl font-bold text-white mb-2">Socials 25'!</h3>
-              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2024</p>
+              <p className="text-xs sm:text-sm text-gray-400 mb-2 sm:mb-4">2025</p>
               <p className="text-sm sm:text-base text-gray-300 mb-3 sm:mb-4">
                 The best port I could ever ask for no glaze. An experience I'll take way beyond my time in university ❤️.
               </p>
@@ -369,7 +369,7 @@ function App() {
               Vision for 2026
             </h2>
             <p className="text-base sm:text-lg text-gray-300">
-              Lets elevate CSESoc!
+              Let's elevate CSESoc!
             </p>
           </div>
 
