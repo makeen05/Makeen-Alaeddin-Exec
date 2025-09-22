@@ -502,7 +502,7 @@ function App() {
                 textShadow: '0 0 10px #fbbf24'
               }}>Co-President </span>and <span className="text-yellow-400" style={{
                 textShadow: '0 0 10px #fbbf24'
-              }}>VPE </span>:)
+              }}>Vice President (External) </span>:)
             </h2>
             
             <p className="text-sm sm:text-base text-white px-4">
