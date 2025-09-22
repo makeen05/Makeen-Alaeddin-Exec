@@ -393,11 +393,11 @@ function App() {
                 </li>
                 <li className="flex items-start">
                   <div className="w-2 h-2 bg-blue-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                  <span className="text-sm sm:text-base text-gray-300">Make sure all voices are heard! Whether that be a subcom member to an exec.</span>
+                  <span className="text-sm sm:text-base text-gray-300">Make sure all voices are heard! Whether that be a subcom member to an exec</span>
                 </li>
                 <li className="flex items-start">
                   <div className="w-2 h-2 bg-blue-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                  <span className="text-sm sm:text-base text-gray-300">Celebrate the contributions of volunteers and members to build a stronger sense of belonging and appreciation.</span>
+                  <span className="text-sm sm:text-base text-gray-300">Celebrate the contributions of volunteers and members to build a stronger sense of belonging and appreciation</span>
                 </li>
               </ul>
             </div>
@@ -413,7 +413,7 @@ function App() {
               <ul className="space-y-3 sm:space-y-4">
                 <li className="flex items-start">
                   <div className="w-2 h-2 bg-purple-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                  <span className="text-sm sm:text-base text-gray-300">Pilot new event initiatives and mentorship programs! I was thinking of a program where mentors are able to critique and provide guidance to those wanting to build/ start on their projects</span>
+                  <span className="text-sm sm:text-base text-gray-300">Pilot new event initiatives and mentorship programs! I was thinking of a program where mentors are able to critique and provide guidance to those wanting to build their first personal project</span>
                 </li>
                 <li className="flex items-start">
                   <div className="w-2 h-2 bg-purple-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
@@ -496,7 +496,7 @@ function App() {
               </div>
             </div>
             <h2 className="text-2xl sm:text-3xl lg:text-4xl text-white font-bold mb-6 sm:mb-8">
-              Thanks for readinggg and lets make this happen by putting me as your <span className="text-yellow-400" style={{
+              Thanks for reading and lets make this happen by putting me as your <span className="text-yellow-400" style={{
                 textShadow: '0 0 10px #fbbf24'
               }}>#1 </span>preference for <span className="text-yellow-400" style={{
                 textShadow: '0 0 10px #fbbf24'
