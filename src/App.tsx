@@ -208,7 +208,7 @@ function App() {
               My Contributions
             </h2>
             <p className="text-base sm:text-lg text-gray-300">
-              Snapshots of my work with CSESoc this year!
+              Snapshots of my work with CSESoc!
             </p>
           </div>
           
