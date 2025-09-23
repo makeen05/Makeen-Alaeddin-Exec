@@ -420,11 +420,11 @@ function App() {
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-purple-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Create cross-university collaboration initiatives to expand our network</span>
+                    <span className="text-sm sm:text-base text-gray-300">Encourage fresh ideas from across the society by creating regular brainstorming sessions, feedback threads and “pitch your event” opportunities.</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-purple-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Develop digital platforms for enhanced member engagement</span>
+                    <span className="text-sm sm:text-base text-gray-300">Create cross-university collaboration initiatives</span>
                   </li>
                 </ul>
               </div>
@@ -439,15 +439,15 @@ function App() {
                 <ul className="space-y-3 sm:space-y-4">
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-green-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Foster inclusive environment for students from all backgrounds</span>
+                    <span className="text-sm sm:text-base text-gray-300">Continue to collaborate with a variety of socities including ENGSoc, WIT, MahjongSoc, IceSoc, and more to create events that are welcoming to ANYONE regardless of background or faculty.</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-green-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Create specialty interest groups for diverse CS disciplines</span>
+                    <span className="text-sm sm:text-base text-gray-300">Aim to host a more diverse range events, introducing events we have never seen before!</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-green-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Implement peer support systems for academic success</span>
+                    <span className="text-sm sm:text-base text-gray-300">Collect feedback via attendance form specifically asking how to improve accessibility in future events.</span>
                   </li>
                 </ul>
               </div>
@@ -462,19 +462,19 @@ function App() {
                 <ul className="space-y-3 sm:space-y-4">
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                    <span className="text-sm sm:text-base text-gray-300">Launch innovative project-based learning initiatives. I was thinking to collaborate with more start-ups on this for mutual benefits :)</span>
+                  </li>
+                  <li className="flex items-start">
+                    <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                    <span className="text-sm sm:text-base text-gray-300">Involve CSESoc alumni for panel talks and networking nights</span>
+                  </li>
+                  <li className="flex items-start">
+                    <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                    <span className="text-sm sm:text-base text-gray-300">Offer more technical workshops/ competitions that focus on emerging technologies and opportunities!</span>
+                  </li>
+                  <li className="flex items-start">
+                    <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
                     <span className="text-sm sm:text-base text-gray-300">Expand industry partnerships for internship opportunities</span>
-                  </li>
-                  <li className="flex items-start">
-                    <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Launch comprehensive career support programs</span>
-                  </li>
-                  <li className="flex items-start">
-                    <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Enhance technical workshop offerings with emerging technologies</span>
-                  </li>
-                  <li className="flex items-start">
-                    <div className="w-2 h-2 bg-yellow-400 rounded-full mt-2 mr-3 flex-shrink-0"></div>
-                    <span className="text-sm sm:text-base text-gray-300">Strengthen alumni network connections</span>
                   </li>
                 </ul>
               </div>
