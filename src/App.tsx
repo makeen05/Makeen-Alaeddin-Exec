@@ -132,8 +132,8 @@ function App() {
                 <div className="text-xl sm:text-2xl lg:text-3xl font-semibold text-yellow-400 mb-6 sm:mb-8" style={{
                   textShadow: '0 0 30px #fbbf24'
                 }}>
-                  Vice President (External)<br/>
-                  & Co-President
+                  Co-President<br/>
+                  & Vice President (External)
                 </div>
                 <div className="flex flex-col gap-3 sm:gap-4 max-w-md mx-auto lg:mx-0">
                   <button 
